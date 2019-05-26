@@ -1,4 +1,4 @@
-# abstractfactory
+# Abstract Factory
 Simple example of abstract factory
  The definion of abstract factory says 
  
