@@ -12,7 +12,7 @@ Simple example of abstract factory
 
 AbstractFactory  ContinentFactory
 -declares an interface for operations that create abstract products
-
+<br>
 ConcreteFactory   (AmericaFactory, EuropeanFactory)
 -implements the operations to create concrete product objects
 AbstractProduct   (Product, RegionCLient)
