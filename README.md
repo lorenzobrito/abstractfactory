@@ -15,11 +15,14 @@ AbstractFactory  ContinentFactory
 <br>
 ConcreteFactory   (AmericaFactory, EuropeanFactory)
 -implements the operations to create concrete product objects
+<br>
 AbstractProduct   (Product, RegionCLient)
 -declares an interface for a type of product object
+<br>
 Product  (AmericaMovies, AmericaRegion,EuropaRegion,EuropeanMovies)
 -defines a product object to be created by the corresponding concrete factory
 -implements the AbstractProduct interface
+<br>
 Client  (DeliveryCenter)
 uses interfaces declared by AbstractFactory and AbstractProduct classes
 
