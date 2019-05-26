@@ -1,5 +1,5 @@
 # abstractfactory
-Simle example of abstract factory
+Simple example of abstract factory
  The definion of abstract factory says 
  
  "Provide an interface for creating families of related or dependent objects without specifying their concrete classes."
